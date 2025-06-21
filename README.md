@@ -1,9 +1,13 @@
 <h1 align="center">Hey, thanks for stepping by! 👋</h1>
-<h4 align="center">I’m an embedded software engineer fascinated by the tiniest details of how modern computing works.
+<h4 align="center">I am an embedded software engineer fascinated by the tiniest details of how modern computing works, from assembly mnemonics to high-level scripts and from sand to transistors.
+<br>
+<br>
+I am also a language enthusiast and I am currently learning German. I hope I can manage to become conversational since it’s quite a challenge! 😄
+<br>
+<br>
 Feel free to reach out if you have exciting projects or want to share experiences.</h4>
 
 <p align="center">
-<br>
 <a href="https://www.linkedin.com/in/davi-nonnenmacher-4061321b7/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:davifn1@gmail.com"><img src="https://img.shields.io/badge/gmail-red.svg?&style=for-the-badge&logo=Outlook&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
