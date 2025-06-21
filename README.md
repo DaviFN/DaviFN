@@ -2,7 +2,7 @@
 <h4 align="center">I am an embedded software engineer fascinated by the tiniest details of how modern computing works, from assembly mnemonics to high-level scripts and from sand to transistors.
 <br>
 <br>
-I am also a language enthusiast and I am currently learning German. I hope I can manage to become conversational since it’s quite a challenge! 😄
+I am also a language enthusiast currently learning German. I hope I can manage to become conversational since it’s quite a challenge! 😄
 <br>
 <br>
 Feel free to reach out if you have exciting projects or want to share experiences.</h4>
