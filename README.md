@@ -1,5 +1,5 @@
 <h1 align="center">Hey, thanks for stepping by! 👋</h1>
-<h43 align="center">I’m an embedded software engineer fascinated by the tiniest details of how modern computing works.
+<h4 align="center">I’m an embedded software engineer fascinated by the tiniest details of how modern computing works.
 Feel free to reach out if you have exciting projects or want to share experiences.</h4>
 
 <p align="center">
